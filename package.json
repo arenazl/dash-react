@@ -2,10 +2,11 @@
   "name": "black-dashboard-pro-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://creativetimofficial.github.io/black-dashboard-pro-react/admin/dashboard",
+  "homepage": "https://arenazl.github.io/react-dash",
   "dependencies": {
     "chart.js": "2.8.0",
     "classnames": "2.2.6",
+    "gh-pages": "^2.0.1",
     "history": "4.9.0",
     "moment": "2.24.0",
     "node-sass": "4.12.0",
@@ -37,6 +38,8 @@
     "@types/react": "16.8.22"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
