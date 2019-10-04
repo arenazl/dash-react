@@ -1,6 +1,6 @@
 Gerencia
 ,Estado,Fecha Autorización,Fecha de Cierre  / Cancelacion,Rango Ponderación,Puntaje
-,Grupo Principal de Desarrollo,Fecha Asignacion
+,Grupo Principal de Desarrollo,Fecha Asignacion,
 CONTADURÍA,Ingresado,03/10/2019,,Bajo,1,REGÍMENES INFORMATIVOS,
 PROTECCION DE ACTIVOS DE INFORMACION,Ingresado,03/10/2019,,Alto,7,BIP CANAL - PE,
 PROTECCION DE ACTIVOS DE INFORMACION,Ingresado,03/10/2019,,Alto,7,BIP CANAL - PE,
@@ -1416,5 +1416,4 @@ PRODUCTOS,Para Autorizar,,,Bajo,1,,
 RED COMERCIAL,Borrador,,,Bajo,1,,
 RED COMERCIAL,Para Autorizar,,,Bajo,1,,
 SOPORTE DEL NEGOCIO,Borrador,,,Alto,5,,
-PROCESOS Y ORGANIZACIÓN,Para Autorizar,,,Medio Alto,4,,
-,,,,,,,
+PROCESOS Y ORGANIZACIÓN,Para Autorizar,,,Medio Alto,4,,,,,,,,,
